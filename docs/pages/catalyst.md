@@ -13,4 +13,4 @@ permalink: /cardano-catalyst/
 5. [Pro-Social](https://app.projectcatalyst.io/proposal/0198bb63-d896-7230-8e92-3255905f4b8f?version=0198bb99-710c-7de9-a80c-531f9d7760c7)
 
 ### Related
-- [Images ↗](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
+- [Images](https://github.com/selfdriven-foundation/selfdriven-energy/tree/main/communities/images)
