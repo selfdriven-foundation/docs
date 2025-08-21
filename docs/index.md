@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-## selfdriven Docs.
-
 - [On-Boarding](https://onboarding.selfdriven.foundation)
 - [Cardano Catalyst](/cardano-catalyst/)
 
@@ -17,4 +15,5 @@ title: Home
 - [skillzeb.io](https://skillzeb.io) - templates
 - [selfdriven.fyi/research](https://selfdriven.fyi/research)
 
-
+### Foundation Supported Cardano Community Projects
+- [Intersect DGov Education Kit/](/intersect-education-kit/)
