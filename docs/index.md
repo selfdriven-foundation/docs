@@ -5,7 +5,7 @@ title: Home
 
 ## selfdriven Docs.
 
-- [On-Boarding](https://github.com/selfdriven-foundation/onboarding)
+- [On-Boarding](https://onboarding.selfdriven.foundation)
 - [Cardano Catalyst](/cardano-catalyst/)
 
 ### Related
